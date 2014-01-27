@@ -1,0 +1,512 @@
+user_id,first_name,birthday,gender,location,relationship_status,fb_groups,fb_maybe_single_female_friends,fb_maybe_single_male_friends,fb_movies,fb_music,fb_schools,fb_single_female_friends,fb_single_male_friends
+103,Sam,4/19/1993,1,,Unknown,4,0,0,1,0,2,50,115
+139,Harry,2/21/1992,1,,Unknown,5,0,0,3,3,3,44,123
+400,Miguel,5/31/1981,1,"Toronto, Ontario",Unknown,13,0,0,1,73,2,140,64
+233,Katelyn,2/2/1993,2,"Kitchener, Ontario",Unknown,1,0,0,0,0,1,11,7
+381,Caasho,5/6/2000,2,,Unknown,0,0,0,0,1,1,1,2
+39,Johnathan,5/18/1989,1,"Toronto, Ontario",Unknown,12,0,0,3,0,2,16,40
+40,Andrew,9/5/1987,1,"Toronto, Ontario",Unknown,10,0,0,0,0,4,0,0
+380,Abdul,5/1/1998,1,"Ottawa, Ontario",Unknown,1,0,0,0,0,1,179,74
+565,Claire,3/18/1987,2,"Toronto, Ontario",Engaged,0,127,85,11,25,3,23,29
+61,Yoni,5/20/1988,1,"Toronto, Ontario",Unknown,5,0,0,0,0,3,9,34
+476,Raymond,10/27/1993,1,"Houston, Texas",Relationship,0,27,20,8,25,1,27,33
+246,Martin,6/19/1985,1,"Toronto, Ontario",Unknown,1,0,0,0,0,1,33,21
+4,Garrett,2/17/1992,1,"Toronto, Ontario",Unknown,16,0,0,0,0,2,55,126
+95,Marina,5/7/1993,2,"Toronto, Ontario",Unknown,21,0,0,0,0,2,28,95
+153,Amanda,12/8/1991,2,"Waterloo, Ontario",Unknown,14,0,0,0,0,2,61,81
+11,Ilia,10/7/1987,1,"Toronto, Ontario",Unknown,10,0,0,0,2,3,8,15
+171,Tarun,9/24/1992,1,"Stouffville, Ontario",Unknown,17,0,0,0,0,3,68,178
+148,Cori,1/26/1988,1,"Toronto, Ontario",Unknown,64,0,0,0,1,3,12,66
+102,Alexee,6/11/1992,2,"Waterloo, Ontario",Unknown,41,0,0,0,0,3,112,162
+93,Stefan,4/9/1993,1,"Toronto, Ontario",Unknown,8,0,0,0,0,2,24,81
+48,Vadim,2/21/1987,1,"Toronto, Ontario",Single,0,50,41,0,0,3,15,12
+243,Ryan,7/10/1992,1,"Hamilton, Ontario",Unknown,19,0,0,0,0,2,32,127
+178,Michael,4/5/1988,1,"Richmond Hill, Ontario",Unknown,7,0,0,0,16,2,8,26
+290,Mukund,1/2/1988,1,"Chicago, Illinois",Unknown,18,0,0,1,3,7,31,101
+348,Adam,5/21/1984,1,"Toronto, Ontario",Unknown,11,0,0,4,60,3,10,44
+1,Lior,5/13/1992,1,"Toronto, Ontario",Relationship,37,306,184,0,0,3,109,127
+350,Jean-Francois,9/27/1982,1,"Toronto, Ontario",Unknown,0,0,0,0,0,4,10,7
+56,Hae-in,10/23/1990,2,,Unknown,23,0,0,0,0,2,0,0
+65,Shirley,11/23/1993,2,"Toronto, Ontario",Relationship,20,0,0,0,0,3,0,0
+180,Shamrin,12/1/1990,1,"Toronto, Ontario",Unknown,8,0,0,0,0,3,5,66
+128,Michael,4/3/1993,1,"Toronto, Ontario",Unknown,23,0,0,0,0,2,0,0
+176,Michele,10/8/1992,2,,Unknown,6,0,0,0,0,2,50,121
+326,Anna,4/30/1987,2,"Toronto, Ontario",Unknown,1,0,0,0,0,2,9,24
+475,Jennifer,8/25/1997,2,"Arlington, Texas",Relationship,0,26,15,11,18,0,35,11
+409,Boom,3/20/1991,1,"Toronto, Ontario",Unknown,28,0,0,1,12,3,221,93
+276,Troy,2/12/1988,1,"Toronto, Ontario",Unknown,2,0,0,1,1,2,24,31
+383,Derek,2/19/1982,1,"Toronto, Ontario",Unknown,5,0,0,1,1,2,6,7
+55,Alice,3/17/1992,2,,Unknown,13,0,0,2,4,1,20,16
+353,Helen,12/28/1991,2,"Thornhill, Ontario",Unknown,0,0,0,0,2,2,3,5
+70,Freda,8/10/1953,2,"Coushatta, Louisiana",Unknown,3,0,0,3,2,1,0,0
+211,Yoni,2/20/1984,1,,Unknown,140,0,0,0,0,2,71,68
+358,Julia,4/12/1989,2,,Unknown,9,0,0,9,12,2,20,62
+164,Katherine,9/10/1986,2,"Toronto, Ontario",Unknown,11,0,0,0,0,0,52,86
+37,Leo,4/5/1992,1,"Toronto, Ontario",Relationship,1,0,0,4,14,2,12,8
+517,Olya,10/3/1988,2,"New York, New York",Single,0,142,105,5,25,0,16,27
+347,Matt,10/5/1987,1,,Unknown,3,0,0,0,3,1,45,27
+361,Mickael,3/12/1974,1,,Unknown,0,0,0,0,8,0,2,6
+523,Elias,11/15/1991,1,"Toronto, Ontario",Relationship,0,131,132,5,25,2,78,143
+378,Arik,8/26/1984,1,"Toronto, Ontario",Unknown,5,0,0,0,0,1,19,50
+385,Dan,4/28/1988,1,"Toronto, Ontario",Unknown,4,0,0,32,56,5,35,10
+374,Steve,3/4/1966,1,,Unknown,0,0,0,0,37,0,6,8
+274,Ronny,4/21/1992,1,"Toronto, Ontario",Unknown,52,0,0,3,12,2,155,203
+366,Kamalos,6/4/1984,1,"Lagos, Nigeria",Unknown,0,0,0,0,3,2,55,43
+388,Nancy,2/17/1975,2,"Oakville, Ontario",Unknown,0,0,0,0,0,1,0,2
+373,Lise,6/5/1958,2,"Ottawa, Ontario",Unknown,0,0,0,0,0,1,6,1
+393,Cameron,6/24/1983,1,"Toronto, Ontario",Unknown,3,0,0,0,1,1,4,13
+372,Alex,1/1/1988,1,"Toronto, Ontario",Unknown,8,0,0,0,0,3,22,54
+359,Stephen,2/14/1987,1,"Montreal, Quebec",Unknown,22,0,0,30,7,6,34,62
+389,Clifford,6/6/1955,1,"Toronto, Ontario",Unknown,0,0,0,3,5,2,8,1
+405,Yaamini,5/28/1972,2,,Unknown,0,0,0,1,1,0,2,6
+367,Omid,1/27/1995,1,"Toronto, Ontario",Unknown,1,0,0,0,1,2,6,19
+327,Gene,10/6/1987,1,"Toronto, Ontario",Unknown,5,0,0,0,23,2,6,12
+401,Kevin,3/30/1969,1,"Toronto, Ontario",Unknown,10,0,0,10,8,2,21,5
+360,Chris,12/10/1986,1,"Toronto, Ontario",Unknown,9,0,0,0,0,3,4,38
+370,Rowland,6/9/1992,1,"Toronto, Ontario",Unknown,3,0,0,2,2,3,54,66
+390,Mike,1/5/1984,1,"Toronto, Ontario",Unknown,1,0,0,0,0,0,24,65
+407,Ray,1/5/1991,2,"Toronto, Ontario",Unknown,3,0,0,0,33,1,28,40
+592,Josh,9/10/1991,1,"Barrie, Ontario",Relationship,0,31,39,3,25,0,36,74
+410,Renn,9/25/1985,1,"Toronto, Ontario",Unknown,17,0,0,0,1,3,44,53
+369,Francis,6/11/1986,1,"Toronto, Ontario",Unknown,1,0,0,4,14,2,4,20
+371,Silvana,8/2/1957,2,"Hamilton, Ontario",Unknown,3,0,0,0,0,3,1,5
+397,Raeanne,7/12/1981,2,"Ottawa, Ontario",Unknown,22,0,0,0,0,4,6,16
+418,Stephen,2/2/1962,1,"Toronto, Ontario",Unknown,0,0,0,0,0,2,0,0
+423,Allen,1/10/1979,1,"Hagersville, Ontario",Unknown,53,0,0,0,0,2,93,65
+391,Ashes,3/28/1962,2,"Belleville, Ontario",Unknown,0,0,0,1,10,0,5,4
+402,John,3/3/1995,1,,Unknown,0,0,0,0,0,0,0,0
+426,Wayne,4/20/1949,1,,Unknown,0,0,0,0,0,2,17,0
+394,Alex,12/14/1988,1,"Toronto, Ontario",Unknown,0,0,0,1,1,0,26,2
+340,Jenia,8/29/1986,1,,Unknown,0,0,0,0,0,0,0,0
+392,Sonia,1/1/1960,2,,Unknown,0,0,0,0,0,0,0,0
+365,Farooq,5/6/1986,1,,Relationship,0,30,71,1,25,1,5,21
+341,Denizio,1/17/1984,1,"Toronto, Ontario",Unknown,0,0,0,35,12,3,15,0
+421,Al,5/11/1961,1,"Toronto, Ontario",Unknown,0,0,0,0,17,0,1,1
+419,Gary,10/6/1948,1,"Toronto, Ontario",Unknown,0,0,0,2,0,0,6,3
+412,Freddie,1/5/1985,1,"Toronto, Ontario",Unknown,10,0,0,0,1,4,44,28
+428,Luiza,4/20/1990,2,"Toronto, Ontario",Unknown,56,0,0,0,25,2,81,164
+349,Sreyas,11/3/1990,1,"Waterloo, Ontario",Unknown,22,0,0,0,0,2,35,110
+90,Tony,4/15/1992,1,,Unknown,13,0,0,0,0,2,143,239
+166,Stephanie,4/19/1993,2,"Montreal, Quebec",Unknown,23,0,0,0,0,2,156,218
+15,Michelle,2/11/1992,2,,Unknown,6,0,0,0,0,2,0,0
+566,Jenni,6/7/1988,2,"Toronto, Ontario",Single,0,78,66,1,24,2,10,16
+414,Season,12/17/1992,1,"Accra, Ghana",Unknown,25,0,0,6,13,3,287,171
+343,Vicky,11/23/1989,1,Bandung,Unknown,12,0,0,0,9,3,0,0
+268,Igor,7/10/1979,1,,Single,0,21,69,0,1,0,4,15
+104,David,1/11/1989,1,"Montreal, Quebec",Unknown,47,0,0,0,0,2,154,282
+215,Yaniv,5/15/1985,1,"Toronto, Ontario",Unknown,29,0,0,0,16,1,31,58
+416,Randy,7/31/1962,1,,Unknown,0,0,0,0,1,0,5,6
+6,Michelle,11/12/1992,2,"London, Ontario",Unknown,24,0,0,0,0,2,0,0
+8,Michelle,8/18/1992,2,"Toronto, Ontario",Unknown,11,0,0,0,0,2,0,0
+149,Brent,12/13/1994,1,"Toronto, Ontario",Unknown,40,0,0,0,0,2,0,0
+175,Judy,11/19/1989,2,"Toronto, Ontario",Unknown,2,0,0,0,0,1,0,0
+462,brittany,7/30/1985,2,"San Francisco, California",Engaged,0,0,0,4,8,0,19,56
+151,Anthony,10/7/1992,1,"Toronto, Ontario",Unknown,26,0,0,0,0,3,15,121
+71,Katy,12/11/1998,2,,Unknown,4,0,0,0,0,0,0,0
+117,Boris,9/8/1986,1,,Unknown,18,0,0,0,0,1,0,0
+160,Yoni,2/21/1987,1,"Brisbane, Queensland, Australia",Single,0,90,100,0,0,4,9,33
+107,Matthew,5/13/1993,1,"Toronto, Ontario",Unknown,4,0,0,0,0,2,71,132
+363,Cyndi,5/13/1980,2,,Unknown,28,0,0,0,0,1,22,182
+50,Alex,3/10/1986,2,,Unknown,1,0,0,0,0,0,0,0
+74,Sharla,6/8/1968,2,"Greenbank, Washington",Unknown,7,0,0,0,0,2,0,0
+431,Denny,4/30/1991,1,"Toronto, Ontario",Relationship,7,55,33,25,25,3,31,45
+73,Anton,1/5/1984,1,"Waterloo, Ontario",Unknown,9,0,0,0,0,4,0,0
+172,Katya,4/7/1986,2,,Married,12,0,0,0,2,1,8,16
+368,Callum,9/28/1990,1,"Oakville, Ontario",Unknown,13,0,0,14,57,3,70,129
+181,Mike,4/12/1991,1,,Unknown,0,0,0,0,0,0,0,0
+150,Ryan,8/23/1992,1,"Toronto, Ontario",Unknown,5,0,0,0,0,1,81,164
+417,Slava,5/19/1985,1,"Vaughan, Ontario",Single,4,0,0,109,10,2,5,7
+126,Oron,8/13/1992,1,"Toronto, Ontario",Unknown,15,0,0,0,0,3,33,115
+471,Clayton,8/29/1984,1,"Windsor, Ontario",Engaged,0,0,0,0,1,1,18,44
+134,Ryan,8/19/1992,1,"Waterloo, Ontario",Unknown,21,0,0,0,25,2,42,100
+468,Kiana,8/16/1992,2,"Lynn, Massachusetts",Relationship,0,5,71,6,25,2,1,176
+408,Axel,7/12/1991,1,"Brussels, Belgium",Unknown,16,0,0,0,0,0,44,98
+174,May,5/12/1987,2,"Toronto, Ontario",Unknown,10,0,0,0,1,3,12,29
+105,Martin,10/10/1991,1,"Ibiza, Islas Baleares, Spain",Unknown,38,0,0,0,0,2,44,93
+75,Elaine,2/14/1946,2,"Marysville, Washington",Unknown,2,0,0,0,0,1,0,0
+169,Mariam,2/18/1993,2,"Thornhill, Ontario",Unknown,36,0,0,4,16,2,88,154
+184,Lar,4/29/1997,1,,Unknown,0,0,0,0,0,0,0,0
+455,Josh,12/2/1978,1,"Denver, Colorado",Relationship,0,0,0,25,25,0,53,38
+194,Jordana,7/15/1992,2,,Unknown,7,0,0,0,0,2,73,149
+355,Vincent,2/19/1987,1,"Toronto, Ontario",Unknown,7,0,0,0,0,2,21,38
+224,Lisandro,5/25/1987,1,"Porto, Portugal",Unknown,2,0,0,0,0,1,9,9
+173,Tracy,12/22/1977,2,"Toronto, Ontario",Complicated,11,0,0,0,2,5,21,19
+196,David,6/6/1980,1,,Unknown,0,0,0,0,0,0,0,0
+186,Ronit,5/6/1992,2,"Toronto, Ontario",Unknown,19,0,0,0,38,2,0,0
+287,Minever,8/12/1992,2,Struga,Unknown,3,0,0,0,0,0,23,16
+212,Cheeko,6/28/1984,1,"Scarborough, Ontario",Unknown,0,0,0,14,10,0,5,2
+108,Dana,11/8/1989,2,"Thornhill, Ontario",Unknown,11,0,0,0,0,2,40,108
+177,Moses,3/30/1991,1,"Toronto, Ontario",Unknown,8,0,0,0,0,1,33,87
+168,Varun,7/6/1994,1,"Vaughan, Ontario",Unknown,13,0,0,0,0,2,63,115
+195,Albert,12/12/1991,1,"Toronto, Ontario",Unknown,3,0,0,0,0,2,8,63
+209,Open,8/8/1980,1,,Unknown,0,0,0,0,0,0,0,0
+183,Daniel,10/12/1991,1,"Toronto, Ontario",Unknown,36,0,0,0,0,3,29,145
+158,Michelle,3/10/1990,2,"Aurora, Ontario",Unknown,2,0,0,0,0,2,35,73
+21,Samantha,12/9/1992,2,,Unknown,8,0,0,0,0,3,0,2
+525,John,11/1/1995,1,"Mississauga, Ontario",Relationship,0,68,169,25,25,0,46,193
+216,Raven,12/29/1984,2,,Unknown,0,0,0,0,0,2,3,1
+250,Peter,8/2/1989,1,,Unknown,0,0,0,1,4,0,13,52
+237,Ines,4/5/1987,2,"Bayonne, France",Unknown,3,0,0,0,0,1,7,3
+189,Jess,7/23/1993,2,"North Pole, Alaska",Unknown,7,0,0,32,0,2,62,134
+567,Rommel,11/7/1985,1,"Toronto, Ontario",Single,0,232,217,0,5,2,30,56
+147,Jenna,8/27/1992,2,,Unknown,15,0,0,0,0,2,102,163
+223,Jordan,10/18/1988,1,"Toronto, Ontario",Unknown,1,0,0,4,6,0,13,7
+218,Prince,4/21/1993,1,"Mississauga, Ontario",Unknown,0,0,0,0,0,0,23,5
+199,Stanislav,2/5/1987,1,"Toronto, Ontario",Unknown,13,0,0,0,1,2,15,37
+219,Carla,6/26/1990,2,"London, Ontario",Unknown,39,0,0,291,300,2,76,53
+229,Sophia,7/8/1990,2,"Toronto, Ontario",Unknown,11,0,0,5,7,0,15,26
+226,Helin Dicle,10/24/1991,2,,Unknown,0,0,0,0,6,0,2,4
+78,Niloufar,6/22/1993,2,"Richmond Hill, Ontario",Unknown,11,0,0,0,1,2,33,60
+133,Manjinder,2/23/1993,1,,Unknown,13,0,0,0,5,2,49,132
+217,Letitia,6/15/1990,2,,Unknown,0,0,0,0,0,0,20,11
+188,Tayler,11/20/1992,2,"Waterloo, Ontario",Unknown,9,0,0,0,0,2,113,163
+25,Katherine,2/28/1992,2,"Kanata, Ontario",Unknown,1,0,0,3,6,1,3,30
+240,Natasha,1/20/1986,2,"Toronto, Ontario",Single,0,65,138,1,22,2,10,33
+214,Alexandra,1/19/1985,2,,Complicated,6,0,0,0,0,3,3,22
+210,Shane,3/14/1980,1,,Unknown,0,0,0,0,0,0,0,0
+116,Caroline,11/4/1992,2,"Thornhill, Ontario",Unknown,4,0,0,0,5,1,0,0
+143,Anil,10/2/1992,1,"Toronto, Ontario",Unknown,42,0,0,0,0,2,0,0
+227,Angie,1/19/1982,2,,Unknown,9,0,0,0,0,0,10,15
+230,Charlie,1/15/1980,1,,Unknown,0,0,0,0,0,0,0,0
+161,Cory,9/17/1989,1,"Toronto, Ontario",Unknown,12,0,0,0,0,3,23,40
+51,Natalia,12/1/1966,2,,Unknown,0,0,0,0,1,0,0,1
+593,Arunan,11/10/1950,1,"Toronto, Ontario",Single,0,3,12,5,0,3,0,9
+129,Nicole,3/30/1992,2,"Singapore, Singapore",Unknown,56,0,0,0,0,2,61,116
+60,Claudio,5/29/1961,1,CantÌ_,Unknown,1,0,0,0,0,0,0,0
+57,Roman,3/7/1983,1,"Richmond Hill, Ontario",Single,0,13,17,0,0,2,0,6
+568,Sheree,12/12/1988,2,"Bendigo, Victoria",Relationship,0,4,6,1,4,0,2,7
+63,Dan,2/25/1985,1,,Unknown,1,0,0,0,0,0,0,0
+231,Marian,8/9/1979,1,,Unknown,8,0,0,10,63,0,6,17
+72,Marc,12/30/1992,1,"Waterloo, Ontario",Unknown,11,0,0,0,0,2,0,2
+109,David,9/10/1992,1,"Toronto, Ontario",Unknown,19,0,0,5,39,2,18,78
+524,John,11/1/1995,1,"Mississauga, Ontario",Relationship,0,68,169,25,25,0,46,193
+13,Gabby,1/27/1990,2,"Thornhill, Ontario",Unknown,15,0,0,0,0,1,0,0
+241,Shidan,10/15/1972,1,"Toronto, Ontario",Unknown,3,0,0,0,0,0,3,8
+293,Jorge,8/16/1980,1,"Salt Lake City, Utah",Unknown,21,0,0,0,0,1,9,16
+54,Karen,8/20/1967,2,"Toronto, Ontario",Unknown,42,0,0,43,53,3,0,0
+234,David,8/18/1980,1,,Unknown,0,0,0,0,0,0,0,0
+569,David,9/15/1995,1,"West Hartford, Connecticut",Relationship,0,22,28,0,2,1,35,36
+138,Hussein,3/27/1992,1,"Waterloo, Ontario",Unknown,10,0,0,6,11,2,54,167
+521,Dexter,2/21/1989,1,"Toronto, Ontario",Single,0,3,2,0,1,0,5,1
+255,Cassandra,5/21/1998,2,"Las Vegas, Nevada",Unknown,8,0,0,0,0,1,37,26
+49,Catia,11/19/1984,2,"Porto, Portugal",Unknown,9,0,0,2,13,1,0,0
+59,Kesir,2/19/1986,2,,Unknown,21,0,0,42,74,0,0,0
+245,David,9/19/1984,1,"Toronto, Ontario",Unknown,5,0,0,0,0,1,33,20
+88,Pamela,12/24/1993,2,"Toronto, Ontario",Unknown,33,0,0,0,0,2,75,148
+28,Arwid,8/7/1987,1,"Cambridge, Massachusetts",Unknown,11,0,0,0,1,2,8,22
+43,Dima,12/1/1988,1,"Toronto, Ontario",Unknown,6,0,0,0,0,2,14,17
+570,Lindi,9/4/1987,2,Bad Gottleuba,Engaged,0,2,7,25,13,0,0,2
+572,Leanne,7/29/1994,2,"Thornhill, Ontario",Single,0,142,91,0,0,0,103,132
+125,Misha,1/15/1987,1,"Toronto, Ontario",Married,27,0,0,5,9,3,21,59
+332,Tom,6/17/1987,1,"London, Ontario",Unknown,18,0,0,0,0,6,15,31
+42,Andrew,4/11/1984,1,"Montreal, Quebec",Unknown,39,0,0,0,0,3,0,0
+38,Valitsky,3/14/1958,1,"Toronto, Ontario",Unknown,0,0,0,0,0,0,0,0
+31,Lidia,12/24/1989,2,"Toronto, Ontario",Unknown,4,0,0,0,0,1,5,7
+356,Olesya,12/10/1988,2,"Toronto, Ontario",Single,0,211,208,3,25,3,39,74
+415,Aneesa,4/20/1986,2,"Toronto, Ontario",Unknown,0,0,0,0,0,1,3,2
+571,Michael,8/28/1992,1,"Thornhill, Ontario",Relationship,0,57,96,5,25,0,39,81
+427,Ida,2/11/1977,2,,Unknown,13,0,0,7,6,3,27,18
+411,Nadine,1/18/1985,2,,Unknown,4,0,0,0,1,1,13,21
+252,Boris,5/16/1986,1,"Toronto, Ontario",Unknown,8,0,0,2,14,2,29,63
+17,Danielle,9/17/1992,2,"Waterloo, Ontario",Unknown,22,0,0,0,0,2,0,0
+270,Diana,6/18/1988,2,"Toronto, Ontario",Unknown,16,0,0,1,0,2,41,102
+191,Joe,4/3/1989,1,"Toronto, Ontario",Unknown,13,0,0,0,0,4,45,83
+271,Ariel,1/5/1996,1,"Saltillo, Mexico",Unknown,2,0,0,2,0,0,40,15
+256,Huda,2/26/1994,2,,Unknown,0,0,0,0,0,1,3,3
+16,Remy,8/12/1992,2,,Unknown,11,0,0,0,0,2,0,1
+52,Alex,11/25/1987,1,"New York, New York",Unknown,9,0,0,0,2,4,10,40
+251,Hoyle,11/1/1979,1,"Hamilton, Ontario",Unknown,0,0,0,0,0,2,0,1
+262,Tanya,11/19/1987,2,,Unknown,3,0,0,0,1,0,6,9
+20,Esty,10/7/1988,2,"Toronto, Ontario",Engaged,47,0,0,2,5,2,0,0
+257,Christina,3/26/1987,2,"Toronto, Ontario",Unknown,11,0,0,0,0,2,18,33
+399,Afolabi,11/15/1985,1,,Unknown,14,0,0,3,41,1,104,235
+124,Jenna,6/1/1992,2,"Thornhill, Ontario",Unknown,16,0,0,7,17,3,69,51
+146,Jeremy,3/27/1992,1,"Toronto, Ontario",Unknown,25,0,0,0,0,4,66,141
+269,Ivan,2/17/1993,1,,Unknown,23,0,0,0,0,0,22,12
+273,Eduardo,8/8/1986,1,"SÌ£o Paulo, Brazil",Unknown,0,0,0,0,0,0,20,27
+283,Ana Gabriela,12/3/1997,2,"Piedras Negras, Mexico",Unknown,1,0,0,0,0,1,18,9
+285,Kakasdi,7/21/1962,1,,Unknown,0,0,0,0,0,2,0,0
+10,Kenny,9/20/1992,1,"Waterloo, Ontario",Unknown,49,0,0,13,19,2,81,169
+291,James,4/8/1983,1,"Milwaukie, Oregon",Unknown,16,0,0,0,0,2,48,32
+281,Thomas,3/3/1988,1,,Unknown,0,0,0,0,0,0,0,0
+292,Rina,1/14/1980,2,"Surrey, British Columbia",Unknown,0,0,0,0,0,2,5,19
+288,Luhis Eduardo,5/7/1994,1,"Cali, Colombia",Unknown,12,0,0,0,0,2,43,29
+413,Peter,11/15/1993,1,"Toronto, Ontario",Unknown,7,0,0,8,79,2,27,62
+272,Mixam,5/31/1986,1,"Belgrade, Serbia",Engaged,0,48,81,25,17,4,9,26
+277,Timothy,1/24/1992,1,"Toronto, Ontario",Unknown,29,0,0,0,0,3,37,97
+286,Robyn,11/9/1986,2,"Lake Orion, Michigan",Unknown,2,0,0,3,7,2,35,31
+377,Joao Vitor,10/11/1998,1,,Unknown,17,0,0,0,0,2,62,39
+445,Ani,9/2/1988,2,"Toronto, Ontario",Relationship,0,37,38,1,1,0,12,22
+225,Abbas,8/6/1992,1,"Toronto, Ontario",Unknown,27,0,0,0,0,1,14,44
+465,Okoya,4/19/1992,2,"Baltimore, Maryland",Relationship,0,0,0,25,25,2,210,374
+458,Kaitlin,3/25/1996,2,"Wichita, Kansas",Relationship,0,0,0,25,25,0,19,19
+136,Kishinev,10/16/1995,1,,Unknown,1,0,0,0,2,0,73,139
+53,Morgane,10/25/1997,2,"Hollywood, California",Unknown,1,0,0,0,0,1,0,0
+23,Becca,7/16/1986,2,"Toronto, Ontario",Unknown,52,0,0,0,0,0,0,0
+204,Ephraim,12/28/1989,1,"Fort McMurray, Alberta",Unknown,23,0,0,0,0,3,23,86
+187,Angie,3/1/1991,2,"Waterloo, Ontario",Unknown,15,0,0,0,0,2,58,133
+122,Mathieu,6/30/1992,1,"Waterloo, Ontario",Unknown,58,0,0,0,0,5,42,96
+68,Maikol,2/8/1994,1,,Unknown,1,0,0,0,0,0,0,0
+77,Jay,4/1/1991,1,"Toronto, Ontario",Unknown,4,0,0,0,0,1,10,24
+352,Mel,5/4/1989,1,"Toronto, Ontario",Unknown,0,0,0,0,0,0,10,5
+386,Judy Ann,10/26/1993,2,,Unknown,5,0,0,0,0,2,57,21
+282,Anna,9/26/1988,2,"Toronto, Ontario",Unknown,13,0,0,0,0,4,23,23
+18,Julia,3/11/1992,2,"Woodbridge, Ontario",Unknown,16,0,0,0,2,2,91,194
+137,Leora,12/9/1993,2,"Thornhill, Ontario",Unknown,38,0,0,0,0,2,149,330
+58,Michelle,1/1/1995,2,"Toronto, Ontario",Unknown,1,0,0,0,0,0,0,0
+167,Laura,2/7/1992,2,"Milan, Italy",Unknown,8,0,0,0,0,3,85,102
+140,Michael,4/21/1994,1,"Toronto, Ontario",Unknown,37,0,0,0,0,1,229,269
+135,Mahiur,10/10/1991,1,"Toronto, Ontario",Unknown,35,0,0,0,0,4,24,148
+342,Ana Carolina,3/29/1992,2,"Sao Paulo, Brazil",Unknown,51,0,0,0,0,3,39,98
+526,Dexter,2/21/1989,1,"Toronto, Ontario",Single,0,2,2,0,0,0,5,1
+114,Li-san,12/26/1993,2,"Montreal, Quebec",Unknown,0,0,0,1,2,3,75,50
+603,Alan,9/10/1982,1,"Toronto, Ontario",Relationship,0,323,92,25,17,2,50,25
+222,Cayti,12/6/1990,2,"Scarborough, Ontario",Unknown,5,0,0,0,0,2,20,45
+275,Jean-FranÌ_ois,4/12/1984,1,"Montreal, Quebec",Unknown,12,0,0,0,0,2,48,60
+382,Adam,11/14/1985,1,,Unknown,2,0,0,0,0,0,24,9
+441,Justin,11/29/1982,1,"Toronto, Ontario",Single,0,58,55,0,13,0,3,16
+573,Alexandra,2/2/1993,2,"Woodbridge, Ontario",Relationship,0,82,33,0,1,2,53,67
+630,Eliran,7/6/1995,1,"Toronto, Ontario",Relationship,0,85,136,3,11,2,122,265
+44,Marc-antoine,1/24/1997,1,,Unknown,2,0,0,0,0,0,0,0
+643,Alex,10/28/1994,2,"London, Ontario",Single,0,127,77,0,6,0,78,116
+220,Waw,5/10/1989,2,,Unknown,0,0,0,0,0,0,16,8
+267,A Traviss,2/10/1974,1,"Toronto, Ontario",Unknown,115,0,0,0,0,5,0,0
+422,Meghann,10/16/1993,2,"Toronto, Ontario",Unknown,12,0,0,1,8,2,52,104
+527,Dark,3/13/1980,1,"Toronto, Ontario",Relationship,0,94,146,5,25,4,63,146
+244,John-Paul,6/9/1983,1,"Toronto, Ontario",Unknown,5,0,0,0,0,2,4,18
+429,Janine,1/12/1940,2,"Toronto, Ontario",Complicated,1,0,0,0,1,0,7,7
+29,Kate,1/1/1992,2,"Toronto, Ontario",Unknown,10,0,0,0,0,1,0,0
+279,Mike,10/12/1984,1,"Toronto, Ontario",Complicated,0,26,20,0,1,2,1,8
+142,Jessica,11/29/1965,2,"Toronto, Ontario",Unknown,9,0,0,0,0,0,9,5
+574,Joseph,4/16/1992,1,"Woodbridge, Ontario",Relationship,0,0,0,0,0,1,0,0
+131,Josh,9/25/1992,1,"Waterloo, Ontario",Unknown,63,0,0,0,0,2,229,366
+121,Kaushik,5/3/1994,1,"Toronto, Ontario",Unknown,104,0,0,0,0,10,0,0
+362,Alexiane,4/17/1988,2,"Toronto, Ontario",Unknown,3,0,0,0,0,6,15,13
+45,David,2/2/1992,1,"Thornhill, Ontario",Unknown,19,0,0,9,6,3,122,65
+87,Koushan,6/21/1992,1,"Waterloo, Ontario",Relationship,8,0,0,0,0,2,41,105
+228,Leash,11/28/1983,2,,Unknown,1,0,0,0,0,0,0,2
+162,Jelena,12/19/1990,2,"Toronto, Ontario",Unknown,24,0,0,0,0,2,35,112
+127,Ilan,12/1/1995,1,"Moscow, Russia",Unknown,53,0,0,0,0,4,0,0
+364,Charmaine,5/8/1984,2,"Toronto, Ontario",Unknown,0,0,0,0,7,2,13,14
+118,Atif,11/15/1993,1,"Toronto, Ontario",Unknown,87,0,0,0,0,6,88,293
+284,Womic,12/10/1987,1,"Karachi, Pakistan",Unknown,21,0,0,0,0,2,5,49
+575,Jordan,1/1/1993,2,,Relationship,0,149,65,0,0,0,48,64
+64,Nhan,3/22/1992,1,"Mississauga, Ontario",Unknown,8,0,0,0,0,3,19,67
+280,Tony,8/5/1989,1,"Toronto, Ontario",Unknown,24,0,0,0,0,1,50,96
+119,Jessica,4/11/1994,2,"Toronto, Ontario",Unknown,54,0,0,0,0,6,0,0
+208,Matevz,12/11/1983,1,"San Francisco, California",Unknown,27,0,0,0,0,1,57,159
+86,Maggie,11/13/1992,2,"Prague, Czech Republic",Unknown,27,0,0,0,0,3,115,141
+351,Will,7/29/1975,1,,Relationship,18,0,0,0,0,0,35,64
+79,Darren,1/17/1991,1,"Toronto, Ontario",Unknown,41,0,0,0,0,2,77,173
+120,Sam,8/2/1992,1,"London, Ontario",Unknown,13,0,0,0,0,5,99,132
+528,Maria,8/18/1986,2,"Amsterdam, Netherlands",Single,0,33,29,1,2,3,7,5
+98,Anna,9/30/1993,2,"Toronto, Ontario",Unknown,56,0,0,0,0,2,89,195
+248,Sam,8/8/1984,1,"Toronto, Ontario",Single,0,140,170,0,4,4,23,37
+346,David,8/3/1988,1,"Toronto, Ontario",Unknown,17,0,0,8,1,2,29,93
+354,Edoardo,10/15/1986,1,"Toronto, Ontario",Unknown,5,0,0,6,0,3,42,37
+192,Karen,7/13/1992,2,,Unknown,10,0,0,0,0,2,77,110
+576,Adam,6/23/1995,1,"Toronto, Ontario",Relationship,0,175,167,0,1,3,97,174
+5,David,7/17/1992,1,"Toronto, Ontario",Relationship,13,0,0,0,3,3,50,166
+424,Peter,3/16/1982,1,"Saskatoon, Saskatchewan",Unknown,0,0,0,0,0,0,14,22
+265,Daniely,1/29/1985,2,"Sorocaba, Brazil",Unknown,0,0,0,2,17,2,16,5
+448,Rudo,5/21/1995,2,"Harare, Zimbabwe",Relationship,0,123,94,25,25,0,93,117
+420,Anifowose,9/27/1989,1,Ikeja,Unknown,36,0,0,4,3,2,205,155
+198,Tsvetana,9/19/1987,2,,Unknown,5,0,0,0,0,1,14,18
+266,Calin,9/2/1986,1,"Toronto, Ontario",Unknown,0,0,0,0,0,0,8,21
+446,Ben,1/23/1984,1,,Relationship,0,101,112,0,2,2,6,19
+9,Michael,7/6/1992,1,"Waterloo, Ontario",Unknown,43,0,0,0,0,2,65,216
+631,Matthew,11/24/1991,1,"Toronto, Ontario",Relationship,0,121,60,7,12,0,92,50
+185,Melanie,9/4/1993,2,,Unknown,29,0,0,0,0,1,57,92
+94,Jude,3/19/1992,1,"Toronto, Ontario",Unknown,39,0,0,0,0,3,68,144
+14,Zain,10/3/1992,1,,Unknown,26,0,0,0,0,2,104,208
+549,Anuj,9/25/1987,1,"Calcutta, India",Single,0,0,0,25,11,0,1,14
+179,Susan,9/18/1993,2,"Thornhill, Ontario",Unknown,40,0,0,7,20,3,154,274
+91,Wilfrid,12/23/1991,1,"Ottawa, Ontario",Unknown,12,0,0,0,0,2,70,170
+92,Soroush,6/27/1990,1,"Richmond Hill, Ontario",Unknown,42,0,0,0,0,2,67,128
+100,Olsi,6/18/1986,1,"Toronto, Ontario",Unknown,32,0,0,0,0,2,31,99
+155,Sarah,2/1/1990,2,"Kitchener, Ontario",Unknown,10,0,0,0,0,2,58,115
+344,Steve,5/26/1987,1,"Toronto, Ontario",Unknown,17,0,0,0,0,2,30,52
+159,Gabriel,8/31/1992,1,"Toronto, Ontario",Unknown,49,0,0,0,0,2,79,222
+144,Ivana,8/2/1992,2,"Toronto, Ontario",Unknown,32,0,0,0,0,2,92,152
+530,Al,4/17/1990,1,"Markham, Ontario",Single,0,122,231,0,0,0,14,57
+154,Dustin,5/13/1988,1,"Toronto, Ontario",Unknown,13,0,0,6,0,2,21,62
+454,Artiom,1/9/1980,1,"Toronto, Ontario",Complicated,0,18,26,1,14,0,1,6
+547,Andrew,8/9/1991,1,"Las Vegas, Nevada",Relationship,0,45,93,1,16,1,19,78
+545,Yasmin,1/9/1983,2,,Single,0,3,0,1,1,0,0,1
+141,Mindy,9/14/1993,2,"Toronto, Ontario",Unknown,23,0,0,0,0,3,0,0
+550,Alex,11/19/1991,1,"Toronto, Ontario",Single,0,132,183,2,25,0,27,104
+232,Mary,7/25/1980,2,,Unknown,0,0,0,0,0,0,0,0
+47,Dylan,5/2/1992,1,"Waterloo, Ontario",Unknown,23,0,0,0,0,3,22,95
+375,Sergio,10/1/1996,1,"Lima, Peru",Unknown,0,0,0,0,1,1,67,33
+221,Bill,7/16/1980,1,,Unknown,0,0,0,0,0,0,0,0
+289,Anna,8/7/1987,2,"Toronto, Ontario",Unknown,5,0,0,0,0,3,20,46
+531,Al,4/17/1990,1,"Markham, Ontario",Single,0,124,250,0,3,0,19,58
+69,Jaka,7/13/1995,1,Trnava,Unknown,9,0,0,0,0,0,0,0
+197,Will,10/10/1980,1,,Unknown,0,0,0,0,0,0,0,0
+3,Aviv,6/20/1992,1,"Toronto, Ontario",Unknown,10,0,0,0,0,3,77,156
+201,Sharon,10/21/1980,2,,Unknown,0,0,0,0,0,0,0,0
+213,Dave,3/28/1980,1,,Unknown,0,0,0,0,0,0,0,0
+577,Maya,9/27/1994,2,"Toronto, Ontario",Engaged,0,85,68,1,7,2,87,113
+66,Dina,7/18/1992,2,,Unknown,1,0,0,0,0,0,0,0
+459,Kendu,8/27/1980,1,"Detroit, Michigan",Single,0,0,0,25,13,0,60,66
+193,Mary,2/17/1980,2,,Unknown,0,0,0,0,0,0,0,0
+376,Renee,3/21/1989,1,"Toronto, Ontario",Unknown,1,0,0,1,1,1,10,6
+532,Al,4/17/1990,1,"Markham, Ontario",Single,0,122,231,0,0,0,14,57
+582,Brian,10/21/1988,1,,Single,0,64,82,0,15,2,38,99
+632,Paul,5/26/1995,1,"Toronto, Ontario",Relationship,0,102,121,0,6,2,88,142
+36,Jonathan,10/15/1985,1,"Toronto, Ontario",Relationship,0,28,30,0,2,3,10,17
+605,Hayk,9/26/1989,1,,Single,0,83,99,7,8,1,26,53
+644,Moshe,12/3/1987,1,"Toronto, Ontario",Relationship,0,114,83,21,25,2,104,91
+595,Clark,3/15/1993,1,"Toronto, Ontario",Single,0,27,24,0,0,2,9,13
+578,Kate,8/10/1994,2,"London, Ontario",Relationship,0,68,52,25,25,1,62,75
+132,Yonathan,9/25/1985,1,,Relationship,37,0,0,0,3,1,154,301
+537,Numaya,8/15/1992,2,"Toronto, Ontario",Single,0,60,25,0,0,2,19,11
+535,Al,4/17/1990,1,"Markham, Ontario",Single,0,122,231,0,0,0,14,57
+207,Rok,8/31/1975,1,"San Francisco, California",Relationship,30,0,0,0,0,0,31,78
+387,Hayley,5/19/1977,2,"Toronto, Ontario",Unknown,3,0,0,0,4,2,5,8
+398,Cassisou,2/24/1959,2,"Bordeaux, France",Unknown,2,0,0,2,1,1,2,0
+396,Rhys,7/3/1990,1,"Essex, Ontario",Unknown,6,0,0,22,0,3,58,56
+406,Laura,1/29/1971,2,"Toronto, Ontario",Unknown,0,0,0,0,0,0,1,4
+395,Irina,1/1/1988,2,"Toronto, Ontario",Unknown,10,0,0,1,0,2,19,65
+540,Dan,5/16/1986,1,"Toronto, Ontario",Single,0,43,25,0,0,2,21,20
+357,Adam,4/10/1985,1,"Toronto, Ontario",Unknown,14,0,0,2,2,3,73,53
+539,Pavel,6/5/1985,1,"Toronto, Ontario",Engaged,0,36,44,3,0,0,2,21
+182,Casey,1/13/1992,1,"Toronto, Ontario",Unknown,30,0,0,0,0,3,40,130
+472,Max,12/20/1985,1,"London, United Kingdom",Single,0,233,214,0,0,3,42,58
+200,John,4/23/1992,1,,Unknown,0,0,0,0,0,0,0,0
+101,Rajiv,3/1/1992,1,"Mississauga, Ontario",Unknown,23,0,0,0,0,3,40,108
+425,Josef,4/15/1936,1,,Unknown,0,0,0,0,0,0,0,0
+253,David,9/19/1984,1,"Toronto, Ontario",Unknown,1,0,0,0,0,2,71,0
+451,Wolfy,10/14/1982,1,"Toronto, Ontario",Single,0,21,40,15,25,0,2,12
+130,Kayla,6/24/1991,2,"Mississauga, Ontario",Unknown,15,0,0,0,0,3,50,155
+278,Sinclair Berg,12/11/1992,1,"Lagos, Nigeria",Unknown,5,0,0,0,0,2,55,139
+538,Numaya,8/15/1992,2,"Toronto, Ontario",Single,0,59,25,20,25,2,21,12
+7,Leah,3/27/1992,2,,Unknown,14,0,0,0,0,1,0,0
+444,Duncan,2/27/1987,1,"Toronto, Ontario",Single,0,211,194,0,16,0,26,47
+123,Russel,9/3/1987,1,"Vancouver, British Columbia",Unknown,12,0,0,0,0,4,57,104
+333,Christopher,4/30/1990,1,,Unknown,4,0,0,14,0,1,26,55
+534,William,10/29/1987,1,"Hamilton, Bermuda",Relationship,0,231,177,0,0,0,29,56
+76,Tufan,9/28/1991,1,,Unknown,16,0,0,0,0,0,0,0
+403,Victoria,3/2/1982,2,,Unknown,0,0,0,0,0,0,0,0
+536,Kristin,5/16/1987,2,"Brick Township, New Jersey",Engaged,0,78,96,25,25,1,49,94
+553,Manal,12/15/1992,2,,Single,0,122,92,14,12,1,71,108
+546,Festivus,4/2/1975,1,"Sunnyvale, California",Unknown,0,0,0,0,3,0,0,1
+46,Kat,8/20/1985,2,"Toronto, Ontario",Unknown,19,0,0,0,0,4,0,0
+259,Sean,9/29/1992,1,"Montreal, Quebec",Unknown,66,0,0,2,0,1,95,246
+345,Andrew,3/11/1982,1,"Toronto, Ontario",Unknown,14,0,0,0,0,0,15,42
+580,Sharad,12/8/1993,1,"Saint Catharines, Ontario",Relationship,0,95,106,0,1,3,50,81
+485,John,11/8/1990,1,"Holland, Michigan",Engaged,0,70,81,6,10,0,84,121
+249,Elliot,6/17/1983,1,"Toronto, Ontario",Single,0,67,69,0,2,3,4,5
+62,Andreea,7/4/1984,2,"Toronto, Ontario",Complicated,0,29,28,0,0,5,1,10
+89,Seymour,8/14/1990,1,"Toronto, Ontario",Unknown,37,0,0,0,0,3,0,0
+242,Allan,5/13/1992,1,"Toronto, Ontario",Unknown,23,0,0,0,0,1,80,208
+247,Jonathan,6/4/1986,1,"London, Ontario",Unknown,0,0,0,0,3,2,4,2
+533,Al,4/17/1990,1,"Markham, Ontario",Single,0,122,231,0,0,0,14,57
+152,Aized,11/27/1991,1,"Toronto, Ontario",Relationship,10,0,0,0,0,3,88,154
+22,Daniel,2/25/1987,1,"Toronto, Ontario",Single,0,60,90,1,0,3,12,24
+606,Dwayne,8/18/1991,1,"Vaughan, Ontario",Single,0,148,115,7,25,0,49,94
+488,Deena,5/8/1987,2,"Toronto, Ontario",Engaged,0,0,6,0,0,2,0,9
+543,Ali,7/31/1987,1,"Toronto, Ontario",Relationship,0,161,260,4,1,3,30,83
+542,Ling,11/29/1993,2,,Relationship,0,116,100,11,15,2,93,121
+202,Sabri,8/15/1970,1,,Unknown,0,0,0,0,0,3,0,2
+258,Joolz,12/31/1988,2,"Toronto, Ontario",Complicated,13,0,0,0,0,2,13,30
+67,Roy,11/17/1991,1,"Toronto, Ontario",Unknown,35,0,0,5,10,3,85,178
+170,Mike,11/5/1982,1,,Unknown,8,0,0,2,0,0,59,110
+163,Pardis,1/31/1990,2,,Unknown,4,0,0,0,0,2,102,220
+145,Daniel,3/11/1991,1,"Thornhill, Ontario",Unknown,15,0,0,0,0,2,41,125
+115,Tara,5/3/1992,2,"Waterloo, Ontario",Unknown,15,0,0,0,0,2,104,244
+157,Sabina,4/8/1993,2,"Toronto, Ontario",Unknown,6,0,0,0,0,2,25,71
+156,Cristian,7/23/1993,1,"Pipera, Bucuresti, Romania",Unknown,31,0,0,0,7,2,302,409
+12,Nathan,5/26/1992,1,"Toronto, Ontario",Unknown,23,0,0,0,7,3,124,226
+30,Daniel,2/7/1984,1,"Seattle, Washington",Unknown,3,0,0,0,1,2,1,12
+19,David,8/25/1992,1,,Unknown,5,0,0,0,42,2,79,162
+203,Arash,12/3/1992,1,"Toronto, Ontario",Unknown,28,0,0,0,0,2,48,145
+430,Noah,10/1/1959,1,"Winnipeg, Manitoba",Single,0,0,0,0,4,2,1,0
+261,Go,12/9/1986,2,"Recife, Brazil",Unknown,0,0,0,0,0,0,0,1
+99,Michelle,12/27/1992,2,"Waterloo, Ontario",Unknown,24,0,0,0,45,2,0,0
+404,Mel,5/12/1998,2,"Luxembourg, Luxembourg",Unknown,0,0,0,0,45,1,3,2
+263,Irina,11/3/1986,2,"Waterloo, Ontario",Unknown,9,0,0,0,0,2,16,11
+27,Doris,8/15/1992,2,"Toronto, Ontario",Unknown,17,0,0,0,0,4,0,0
+499,Suhayl,8/12/1988,1,"Mississauga, Ontario",Relationship,0,76,146,2,4,0,58,183
+492,William,10/29/1987,1,"Hamilton, Bermuda",Relationship,0,252,189,2,10,0,29,58
+491,Roman,1/1/1919,1,"Toronto, Ontario",Engaged,0,37,58,0,3,0,6,23
+497,Orr,11/14/1988,1,"Be'Er Sheva`, Hadarom, Israel",Single,0,43,152,3,8,0,26,112
+495,Joshua,12/11/1987,1,,Single,0,47,70,0,0,0,13,23
+607,Aleks,4/8/1995,2,"Toronto, Ontario",Relationship,0,170,112,1,1,0,183,198
+106,Justin,8/22/1993,1,"Kingston, Ontario",Single,57,0,0,1,4,2,132,209
+581,Rashik,7/16/1992,1,"Toronto, Ontario",Domestic,0,4,11,9,21,2,2,10
+596,Indrit,1/28/1992,1,"Toronto, Ontario",Relationship,0,77,87,0,5,0,39,81
+633,Shaheer,9/10/1989,1,"Toronto, Ontario",Engaged,0,95,169,5,8,2,43,72
+501,Tristana,10/17/1989,2,"Toronto, Ontario",Single,0,170,66,8,16,0,45,22
+611,Alessandria,9/15/1990,2,"Toronto, Ontario",Relationship,0,48,103,1,25,1,26,83
+511,Shukee,10/8/1989,2,,Complicated,0,140,188,0,1,0,21,49
+583,Ovi,6/28/1988,1,"Toronto, Ontario",Complicated,0,11,28,17,25,0,6,15
+634,Jessica,3/13/1993,2,"Mississauga, Ontario",Relationship,0,69,69,0,4,2,43,104
+504,Ayala,7/12/1992,2,"Toronto, Ontario",Relationship,0,16,10,1,15,0,12,4
+515,Dan,5/16/1986,1,"Toronto, Ontario",Single,0,37,29,0,0,2,13,20
+608,Utsav,5/18/1991,1,"Richmond Hill, Ontario",Relationship,0,230,290,10,25,1,50,116
+509,Tyler,3/13/1994,1,"Brossard, Quebec",Relationship,0,79,101,2,13,0,72,100
+506,Kara,5/25/1989,2,"Toronto, Ontario",Engaged,0,58,65,0,0,0,14,21
+513,Valerie,10/6/1988,2,,Single,0,96,68,0,3,0,9,16
+612,Mohammad,5/30/1994,1,"Toronto, Ontario",Relationship,0,106,97,21,25,2,87,93
+635,Rocco,1/1/1993,1,"Toronto, Ontario",Relationship,0,1,0,2,1,0,3,0
+597,Victor,11/29/1989,1,"Toronto, Ontario",Single,0,46,28,0,5,0,19,11
+510,Caroline,11/11/1989,2,,Relationship,0,150,97,0,2,0,42,45
+616,Daniel,10/24/1990,1,"Toronto, Ontario",Relationship,0,181,187,4,14,2,139,221
+591,Rishon,8/15/1991,1,"Oshawa, Ontario",Relationship,0,28,54,4,25,2,13,52
+482,Eugene,8/29/1986,1,"Toronto, Ontario",Relationship,0,84,71,4,0,3,16,18
+614,Leanna,7/23/1993,2,"Woodbridge, Ontario",Relationship,0,82,52,8,21,2,124,129
+613,Tavia,5/7/1991,2,,Complicated,0,147,188,3,25,3,125,245
+620,Mariana,6/15/1992,2,,Complicated,0,280,154,2,11,0,84,93
+615,Chris,4/11/1993,1,"Toronto, Ontario",Unknown,0,51,86,0,5,1,66,184
+609,Marco,10/1/1994,1,"Toronto, Ontario",Engaged,0,81,121,7,15,2,39,132
+604,Daniel,3/4/1989,1,"Toronto, Ontario",Single,0,0,0,0,1,3,0,0
+584,Zachary,8/29/1993,1,"Montreal, Quebec",Single,0,57,66,4,18,0,32,77
+586,Dinesh,3/10/1991,1,,Single,0,2,0,0,0,0,0,0
+617,Vic,9/26/1991,2,"Toronto, Ontario",Single,0,67,49,0,9,0,33,56
+636,Michael,12/1/1985,1,"Toronto, Ontario",Single,0,63,72,0,8,0,15,33
+621,Lashonda,11/16/1992,2,"Toronto, Ontario",Complicated,0,135,272,5,25,2,114,304
+598,Greg,2/3/1989,1,"San Francisco, California",Single,0,0,0,6,25,0,58,98
+96,Leon,4/2/1987,1,"Toronto, Ontario",Relationship,0,69,54,11,2,3,12,12
+618,Yuri,12/21/1992,1,"Markham, Ontario",Single,0,105,211,4,25,0,64,192
+585,Alex,2/21/1991,1,"Toronto, Ontario",Single,0,53,63,1,6,0,21,49
+610,Aryam,10/1/1986,2,,Complicated,0,9,17,15,25,0,3,10
+626,Nikta,1/23/1994,2,"Richmond Hill, Ontario",Relationship,0,129,95,9,25,1,61,113
+587,Luis,4/29/1992,1,"Toronto, Ontario",Relationship,0,98,128,0,4,0,72,135
+548,George,7/31/1995,1,"York, United Kingdom",Engaged,0,5,16,7,25,0,17,25
+622,Dani,3/7/1994,1,"Barrie, Ontario",Relationship,0,56,78,11,25,0,34,88
+637,Rosa,1/5/1994,2,"Toronto, Ontario",Relationship,0,196,127,2,7,2,127,218
+638,Aya,5/3/1994,2,"Toronto, Ontario",Single,0,87,76,25,25,0,48,107
+599,Victor,4/24/1993,1,"Toronto, Ontario",Relationship,0,155,158,24,25,3,74,147
+541,Thomas,6/23/1989,1,"Panama City, Florida",Relationship,0,0,0,6,25,2,0,0
+619,Keane,7/8/1987,1,"Toronto, Ontario",Relationship,0,97,87,0,0,2,27,59
+641,Rebecca,6/22/1986,2,"Toronto, Ontario",Single,0,247,178,4,15,0,12,26
+627,Zak,5/6/1992,1,"Toronto, Ontario",Relationship,0,82,103,0,3,2,39,115
+645,Ahmad,12/23/1994,1,"Toronto, Ontario",Relationship,0,72,95,8,25,2,56,130
+552,Josie,7/27/1993,2,"Toronto, Ontario",Separated,0,52,27,0,4,0,94,58
+588,Ilana,5/25/1990,2,"Ottawa, Ontario",Single,0,286,242,9,21,2,63,106
+624,Jordan,6/8/1994,1,"Toronto, Ontario",Civil,0,53,49,0,12,0,27,72
+625,Raghd,7/22/1994,2,"Mississauga, Ontario",Relationship,0,67,20,8,15,0,30,9
+642,Kevin,3/1/1994,1,"Toronto, Ontario",Relationship,0,141,191,1,25,0,100,209
+640,Matty,1/1/1984,1,"Hamilton, Ontario",Engaged,0,67,95,1,13,4,70,139
+579,Bobby,5/1/1993,1,"Brampton, Ontario",Relationship,0,199,293,2,8,0,137,299
+639,Sage,2/13/1993,2,"Toronto, Ontario",Relationship,0,13,9,0,13,4,11,20
+628,Jenia,10/27/1988,1,"Toronto, Ontario",Relationship,0,69,69,0,3,2,22,45
+623,David,3/20/1983,1,"Toronto, Ontario",Single,0,66,67,1,1,0,7,16
+600,Julia,1/7/1994,2,"Richmond Hill, Ontario",Relationship,0,90,37,4,9,0,84,90
+564,Tayyaba,8/10/1993,2,"Toronto, Ontario",Relationship,0,99,60,1,16,0,64,71
+561,Jamie,6/27/1993,2,"Belleville, Ontario",Engaged,0,42,40,1,10,2,110,139
+554,Stephie,6/25/1987,2,,Relationship,0,241,234,1,9,2,131,263
+559,DiDi,8/18/1994,2,"Toronto, Ontario",Relationship,0,40,7,25,25,0,24,5
+557,Yousef,7/4/1991,1,"Toronto, Ontario",Single,0,57,105,1,9,0,26,83
+556,Francois,10/5/1994,1,"Toronto, Ontario",Relationship,0,266,234,0,24,2,205,294
+563,Marissa,10/26/1993,2,"Hamilton, Ontario",Engaged,0,61,36,10,11,0,75,60
+589,Julia,3/2/1993,2,"Toronto, Ontario",Single,0,113,27,0,0,2,53,26
+560,Joana,9/23/1994,2,"Toronto, Ontario",Complicated,0,0,0,8,25,0,224,348
+562,Zinn,4/13/1993,1,"Toronto, Ontario",Relationship,0,35,39,3,18,0,46,57
+590,Sahand,6/6/1993,1,"Richmond Hill, Ontario",Relationship,0,74,160,0,25,2,54,176
+601,Gagan,6/22/1990,1,"Toronto, Ontario",Relationship,0,200,115,0,4,0,90,90
+555,Carmela,9/15/1992,2,"Toronto, Ontario",Single,0,92,70,9,6,2,54,96
+629,Deep,7/26/1991,1,"Toronto, Ontario",Relationship,0,100,178,15,25,0,45,145
+594,Josh,8/10/1993,1,"San Francisco, California",Single,0,11,25,0,5,3,3,19
+558,Liane,8/2/1992,2,,Relationship,0,141,86,4,16,3,105,120
